@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Raphy-wizzy — Cybersecurity Analyst and Forex Trader</title>
+  <desc id="desc">A dark neon-blue cybersecurity and neon-green forex trading banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020817"/><stop offset=".55" stop-color="#030b13"/><stop offset="1" stop-color="#001b16"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#34d399"/><stop offset="1" stop-color="#00e676"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#0ea5e9" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+    <filter id="glowBlue" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowGreen" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+  <path d="M0 40H230L265 75H360M0 290H190L230 250H310M890 0V60L930 95H1200" fill="none" stroke="#0284c7" stroke-opacity=".35" stroke-width="2"/>
+  <!-- Cybersecurity panel -->
+  <g transform="translate(54 72)">
+    <rect x="0" y="0" width="225" height="218" rx="14" fill="#06172a" stroke="#0ea5e9" stroke-opacity=".55"/>
+    <path d="M14 24H102M14 36H76M14 48H124M14 60H88" stroke="#38bdf8" stroke-opacity=".65" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="174" cy="36" r="20" fill="none" stroke="#0284c7" stroke-width="1.5"/>
+    <path d="M154 36H194M174 16V56M160 22L188 50M188 22L160 50" stroke="#0284c7" stroke-opacity=".65"/>
+    <path d="M112 92L166 72L210 94V140C210 171 185 193 166 203C146 193 112 171 112 140Z" fill="#071f38" stroke="url(#blue)" stroke-width="4" filter="url(#glowBlue)"/>
+    <rect x="150" y="119" width="32" height="29" rx="5" fill="none" stroke="#7dd3fc" stroke-width="4"/>
+    <path d="M157 119V110A9 9 0 0 1 175 110V119" fill="none" stroke="#7dd3fc" stroke-width="4"/>
+    <circle cx="166" cy="132" r="3.5" fill="#7dd3fc"/>
+    <text x="16" y="190" fill="#7dd3fc" font-family="monospace" font-size="10" letter-spacing="2">DETECT • DEFEND</text>
+  </g>
+  <!-- Forex chart panel -->
+  <g transform="translate(920 62)">
+    <rect width="225" height="230" rx="14" fill="#031a18" stroke="#10b981" stroke-opacity=".55"/>
+    <path d="M16 48H209M16 88H209M16 128H209M16 168H209M16 208H209" stroke="#10b981" stroke-opacity=".16"/>
+    <path d="M20 188L48 166L72 176L99 124L125 139L151 88L177 102L207 35" fill="none" stroke="#34d399" stroke-width="3" filter="url(#glowGreen)"/>
+    <g stroke="#34d399" stroke-width="3">
+      <path d="M34 150V194M27 162H41V181H27Z" fill="#059669"/>
+      <path d="M65 140V180M58 150H72V168H58Z" fill="#059669"/>
+      <path d="M96 105V147M89 115H103V135H89Z" fill="#059669"/>
+      <path d="M127 115V154M120 125H134V143H120Z" fill="#059669"/>
+      <path d="M158 70V119M151 80H165V102H151Z" fill="#059669"/>
+      <path d="M189 28V78M182 40H196V61H182Z" fill="#059669"/>
+    </g>
+    <text x="17" y="22" fill="#6ee7b7" font-family="monospace" font-size="10" letter-spacing="2">MARKET WATCH</text>
+  </g>
+  <!-- Center branding -->
+  <g text-anchor="middle">
+    <path d="M536 73L550 49L565 67L582 44L596 72L615 55L607 82H544Z" fill="none" stroke="#00e676" stroke-width="3" stroke-linejoin="round"/>
+    <text x="600" y="143" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900" letter-spacing="-2">
+      <tspan fill="#f8fafc">Raphy-</tspan><tspan fill="#00e676">wizzy</tspan>
+    </text>
+    <text x="600" y="181" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">CYBERSECURITY ANALYST  |  FOREX TRADER</text>
+    <text x="600" y="211" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">SECURE SYSTEMS  ×  SMART TRADES  ×  CONTINUOUS LEARNING</text>
+    <path d="M390 237H810" stroke="#0ea5e9" stroke-opacity=".5"/>
+    <g font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">
+      <text x="440" y="263" fill="#7dd3fc">THREAT DEFENSE</text>
+      <text x="600" y="263" fill="#6ee7b7">FOREX INSIGHTS</text>
+      <text x="760" y="263" fill="#7dd3fc">STRATEGIC GROWTH</text>
+    </g>
+    <g fill="none" stroke-width="2.5">
+      <path d="M366 251l10 10m0-10l-10 10" stroke="#38bdf8"/>
+      <path d="M526 251l10 10m0-10l-10 10" stroke="#34d399"/>
+      <path d="M686 251l10 10m0-10l-10 10" stroke="#38bdf8"/>
+    </g>
+    <text x="600" y="320" fill="#64748b" font-family="monospace" font-size="10" letter-spacing="2">LEARN  •  BUILD  •  ANALYZE  •  IMPROVE</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="17" fill="none" stroke="#1e293b" stroke-width="2"/>
+</svg>
