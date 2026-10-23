@@ -4,7 +4,7 @@
        alt="Raphy-wizzy Cybersecurity and Forex Banner" width="100%">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00E676&background=0D1117&center=true&vCenter=true&width=800&height=55&lines=Raphy-wizzy;Cybersecurity+Analyst+%7C+Forex+Trader;Secure+Systems+%C3%97+Smart+Trades;Learn+%E2%80%A2+Build+%E2%80%A2+Analyze+%E2%80%A2+Improve"
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=800&height=55&lines=Raphy-wizzy;Cybersecurity+Analyst+%7C+Forex+Trader;Secure+Systems+%C3%97+Smart+Trades;Learn+%E2%80%A2+Build+%E2%80%A2+Analyze+%E2%80%A2+Improve"
          alt="Animated typing SVG: Raphy-wizzy — Cybersecurity Analyst and Forex Trader">
   </a>
 
