@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="Raphy-wizzy — Cybersecurity Analyst | Forex Trader" width="100%">
+  <img src="./Raphy-wizzy Cybersecurity and Forex Banner" alt="Raphy-wizzy — Cybersecurity Analyst | Forex Trader" width="100%">
 </div>
 
 <h1 align="center">Hey there, I'm Raphy-wizzy 👋</h1>
